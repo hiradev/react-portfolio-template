@@ -43,7 +43,7 @@ export default {
     {
       title: "Project UNITEE", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project UNITEE was my first year project which focus on selling university merchandise", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1603798125914-7b5d27789248?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
@@ -53,7 +53,7 @@ export default {
     {
       title: "Project UNIACC", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project UNIACC, my second year project, was created with the purpose of providing hostel facilities to university students, employees and foreigners.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1520277739336-7bf67edfa768?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
@@ -63,7 +63,7 @@ export default {
     {
       title: "Project MEETYOURGS", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Project MEETYOURGS is a platform for Gramasewakas to manage their stakeholders and resources.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1484353371297-d8cfd2895020?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=757&q=80",
@@ -73,30 +73,30 @@ export default {
     {
       title: "Organizational Experience", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Being part of an organization enabled me to discover my inner potential and develop my leadership skills.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://scontent.fcmb8-1.fna.fbcdn.net/v/t1.6435-9/152938162_4314479691914572_1328517611357032564_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=PM-ZDuzXnvIAX_Fv8pO&tn=DimcdDRJn7kvrxNI&_nc_ht=scontent.fcmb8-1.fna&oh=715851e0c99f22cb9e11db34f6ea212f&oe=60F92083",
+        "https://i.imgur.com/lPAjyMp.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://www.facebook.com/AIESECLK",
     },
     {
       title: "Hackathon Experience", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Joining as a participant in Hackathons enabled me to learn more on competitive experience.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://scontent.fcmb8-1.fna.fbcdn.net/v/t1.6435-9/75603976_2978046518891236_7670461520756604928_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=jX-PmWlCM_gAX_htUrI&_nc_ht=scontent.fcmb8-1.fna&oh=6415840e5d4c3e1650e78ec4e420263d&oe=60F87DD4",
+        "https://i.imgur.com/owmw5XY.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://www.facebook.com/SliitCodefest",
     },
     {
       title: "Volunteering Experience", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Working in National Organizing Committees allowed me to have an cultural experience with people of different diverse.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://scontent.fcmb8-1.fna.fbcdn.net/v/t1.6435-9/86848843_3224670047562214_7396385475616833536_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=N7jOlZXfioEAX80Pemu&tn=DimcdDRJn7kvrxNI&_nc_ht=scontent.fcmb8-1.fna&oh=23f0f3928fa615c593e7a9ff8b86c58b&oe=60F73C63",
+        "https://i.imgur.com/QkaFn4I.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://www.facebook.com/ieeetechnomeetup",
     },
