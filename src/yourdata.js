@@ -188,7 +188,7 @@ export default {
     },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/hiradevs",
+      url: "https://www.instagram.com/not.hirusha",
     },
     {
       img: linkedinIcon,
