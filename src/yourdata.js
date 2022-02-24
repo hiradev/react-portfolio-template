@@ -20,7 +20,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Hirusha Chamod aka HiraDev",
+  name: "Hirusha Chamod",
   headerTagline: [
     //Line 1 For Header
     "Welcome to",
